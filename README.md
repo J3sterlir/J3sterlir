@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi my name is Jeremiah Lirag. Full Stack Web Developer, specializing in frontend web design.
-
+<br>
+<b>Full-Stack Development:</b> Specializing in MERN and Nuxt, I build scalable web apps and cross-platform mobile solutions.
+<br>
+<b>Multimedia & Storytelling:</b> Drawing from extensive experience in journalism and photography.
+<br>
+<b>Sound Design:</b> I also produce my own music as well as sound designs for video games and other media.
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jm.lirg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremiahmartin-lirag/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://ph.pinterest.com/jeremiahmartindl/) 
