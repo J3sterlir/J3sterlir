@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer<br><br>Languages:<br>C<br>C++<br>Python<br>HTML<br>CSS<br>PHP<br>JAVASCRIPT<br>TYPESCRIPT<br>SQL<br><br>Frameworks:<br>Django<br>MERN<br>NUXT<br>Tailwind CSS<br>ExpressJs<br>NextJS<br>PostgreSQL<br><br>Other:<br>Figma<br>Vscode
+Hi my name is Jeremiah Lirag. Full Stack Web Developer, specializing in frontend web design.
 
 
 ## 🌐 Socials:
