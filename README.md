@@ -28,6 +28,6 @@ Hi my name is Jeremiah Lirag. Full Stack Web Developer, specializing in frontend
 ![](https://github-contributor-stats.vercel.app/api?username=J3sterlir&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=J3sterlir&icon=1&color=%6caae7)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=J3sterlir&icon=1&color=%6caae7)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
